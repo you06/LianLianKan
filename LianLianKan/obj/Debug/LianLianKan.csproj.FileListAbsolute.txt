@@ -1,0 +1,9 @@
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\bin\Debug\LianLianKan.exe.config
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\bin\Debug\LianLianKan.exe
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\bin\Debug\LianLianKan.pdb
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.csprojResolveAssemblyReference.cache
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.Form1.resources
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.Properties.Resources.resources
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.csproj.GenerateResource.Cache
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.exe
+E:\Mat\桌面\Projects\连连看\LianLianKan\LianLianKan\obj\Debug\LianLianKan.pdb
