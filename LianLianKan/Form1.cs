@@ -17,7 +17,6 @@ namespace LianLianKan
         {
             private readonly string version = "v1.0.2";//标记类的版本号
             public int[,] container = new int[20, 8];
-            static Random r = new Random();
             Bitmap img1, img2, img3, img4, img5, decoration;
             private int typeCount = 5;
             private bool isGameStart = false;
@@ -26,6 +25,7 @@ namespace LianLianKan
             private Point pointToDraw;//选中的点
             private int lastm = -1;//上一个被选中的方格的坐标
             private int lastn = -1;
+            static Random r = new Random();
             public llk()
             {
                 //加载图片
@@ -426,6 +426,11 @@ namespace LianLianKan
         private void 退出ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void 关于ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Copyright ©2015 LianLianKan Team. All Rights Reserved.\nPowered by 童牧，李袁紫薇，颜素媚，陈欣平.", "关于");
         }
     }
 }
